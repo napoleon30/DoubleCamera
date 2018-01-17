@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <corners android:radius="8dip" />
+   <!--  填充色为渐变色,不需要中间颜色startColor开始和结束的颜色.-->
+    <gradient
+        android:angle="270"      
+        android:endColor="@android:color/darker_gray"
+        android:startColor="#80f8f8f8"/>
+    <!-- 定义内间距 -->
+    <padding
+        android:left="4dp"
+        android:top="4dp"
+        android:right="4dp"
+        android:bottom="4dp" />
+</shape>
+

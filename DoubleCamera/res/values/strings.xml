@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoubleCameras</string>
+    <string name="build_time">v20160914</string>
+    <string name="unlock">解锁</string>
+    <string name="setting">设置</string>
+    <!-- <string name="configure_network">网络设置</string> -->
+    <string name="control_mode">操作模式</string>
+    <string name="left">左手</string>
+    <string name="right">右手</string>
+    <!--
+    <string name="storage_location">存储位置</string>
+    <string name="sd_card">SD卡</string>
+    <string name="phone">手机</string>
+    -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="my_documents">我的文件</string>
+    <string name="pictures">图片</string>
+    <string name="videos">视频</string>
+    <string name="exit">退出</string>
+    <string name="snapshot">拍照</string>
+    <string name="record">录像</string>
+    <string name="sd_record">SD录像</string>
+    <string name="playback">文件</string>
+    <string name="speed">速度</string>
+    <string name="gravity">重力控制</string>
+    <string name="image_to_flip">影像翻转</string>
+    <string name="on_off">隐藏</string>
+    <!--
+    <string name="close">关闭</string>
+    <string name="open">开启</string>
+    -->
+    <string name="rename">重命名</string>
+    <string name="share">分享</string>
+    <string name="rename_failed">重命名失败</string>
+    <string name="message">提示</string>
+    <string name="delete_or_not">是否删除 \""</string>
+    <string name="delete">删除</string>
+    <string name="delete_failed">删除失败</string>
+    <string name="wiFi_is_disable">提示</string>
+    <string name="please_enable_wiFi_and_connect_to_specified_SSID">无法连接到摄像头，请设置网络</string>
+    <string name="connecting_please_wait">连接中，请稍候 ...</string>
+    <string name="failed_to_snapshot">拍照失败</string>
+    <string name="save_as">已保存到</string>
+    <string name="failed_to_record">录制失败</string>
+    <string name="please_check_the_SDcard">请检查SD卡</string>
+    <string name="recording_please_wait">录制中，请稍后操作</string>
+    <string name="recording">正在录制</string>
+    <string name="recording_success">录制成功</string>
+    <string name="failed_to_get_privilege">获取权限失败</string>
+    <string name="failed_to_release_privilege">释放权限失败</string>
+    <string name="failed_to_set_time">设置时间失败</string>
+    <string name="share_file">分享文件</string>
+    <string name="turn_on">打开</string>
+    <string name="auto_action">自动巡航</string>
+    
+    
+    <string name="high_limit">定高模式</string>
+    <string name="no_direction">无头模式</string>
+    <string name="stroage_location">存储位置</string>
+    <string name="balance">一键平衡</string>
+    <string name="stop">紧急停止</string>
+    <string name="configure_network">网络设置</string>
+    <string name="version_checked">版本号查询</string>
+    
+    
+
+</resources>

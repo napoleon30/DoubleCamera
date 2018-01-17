@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoubleCameras</string>
+     <string name="build_time">v20160914</string>
+     <string name="unlock">Unlock</string>
+    <!-- <string name="configure_network">Configure Network</string> -->
+    <string name="control_mode">Control Mode</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <!--
+    <string name="storage_location">Storage Location</string>
+    <string name="sd_card">SD Card</string>
+    <string name="phone">Phone</string>
+    -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="my_documents">My Documents</string>
+    <string name="pictures">Pictures</string>
+    <string name="videos">Videos</string>
+    <string name="exit">Exit</string>
+    <string name="snapshot">Snapshot</string>
+    <string name="record">Record</string>
+    <string name="sd_record">SD Record</string>
+    <string name="playback">Playback</string>
+    <string name="speed">Speed</string>
+    <string name="gravity">Gravity</string>
+    <string name="image_to_flip">Image to flip</string>
+    <string name="on_off">Hidden</string>
+    <!--
+        <string name="close">Close</string>
+    <string name="open">Open</string>
+    -->
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="rename_failed">Rename failed</string>
+    <string name="message">Message</string>
+    <string name="delete_or_not">Delete \""</string>
+    <string name="delete">Delete</string>
+    <string name="delete_failed">Delete failed</string>
+    <string name="wiFi_is_disable">WiFi is disable</string>
+    <string name="please_enable_wiFi_and_connect_to_specified_SSID">Please enable WiFi and connect to specified SSID</string>
+    <string name="connecting_please_wait">Connecting, please wait...</string>
+    <string name="failed_to_snapshot">Failed to Snapshot</string>
+    <string name="save_as">Save as </string>
+    <string name="failed_to_record">Failed to record</string>
+    <string name="please_check_the_SDcard">Please check the SDcard</string>
+    <string name="recording_please_wait">Recording, please wait...</string>
+    <string name="recording">Recording</string>
+    <string name="recording_success">Recording success</string>
+    <string name="failed_to_get_privilege">Failed to get privilege</string>
+    <string name="failed_to_release_privilege">Failed to release privilege</string>
+    <string name="failed_to_set_time">Failed to Set time</string>
+    <string name="share_file">Share file</string>
+    <string name="turn_on">Open</string>
+    <string name="auto_action">Rolling</string>
+    
+       <string name="high_limit">High Limit</string>
+    <string name="no_direction">No Direction</string>
+    <string name="stroage_location">Stroage Location</string>
+    <string name="balance">Balance</string>
+    <string name="stop">Stop</string>
+    <string name="configure_network">Configure Network</string>
+    <string name="version_checked">Version Checked</string>
+
+</resources>

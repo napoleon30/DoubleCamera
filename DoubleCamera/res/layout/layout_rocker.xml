@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myview="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layoutView_rocker"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <cn.sharelink.view.RockerView
+        android:id="@+id/rocker_left"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        myview:recover_y="false" />
+
+    <cn.sharelink.view.RockerView
+        android:id="@+id/rocker_right"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:layout_marginLeft="300dp" />
+
+    <Button
+        android:id="@+id/btn_lock"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/menu11_bg"
+
+        />
+
+</RelativeLayout>

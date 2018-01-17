@@ -1,0 +1,14 @@
+static
+	{
+		System.loadLibrary("avcodec");
+		System.loadLibrary("avdevice");
+		System.loadLibrary("avfilter");
+
+		System.loadLibrary("avutil");
+		System.loadLibrary("avformat");
+		System.loadLibrary("swresample");
+		System.loadLibrary("swscale");
+		
+		
+		System.loadLibrary("client1");
+	}

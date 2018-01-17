@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="tv_color1">#eebebebe</color>
+    <color name="tv_color2">#eeff0000</color>
+<!-- 	
+	<string name="menu1">拍照</string>
+    <string name="menu2">录像</string>
+    <string name="menu3">文件</string>
+    <string name="menu4">影像翻转</string>
+    <string name="menu5">SD录像</string>
+    <string name="menu6">速度</string>
+    <string name="menu7">定高</string>
+    <string name="menu8">重力控制</string>
+    <string name="menu10">翻滚</string>
+    <string name="menu11">设置</string>
+     -->
+</resources>

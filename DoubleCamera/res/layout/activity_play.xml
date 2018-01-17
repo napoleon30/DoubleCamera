@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         >
+
+        <cn.sharelink.view.RtspVideoView
+            android:id="@+id/rtspVideoView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <cn.sharelink.view.RtspVideoView
+            android:id="@+id/rtspVideoView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true" />
+    </RelativeLayout>
+	
+    <include 
+        layout="@layout/layout_rocker" />
+    
+    <include 
+        layout="@layout/layout_menu" />
+
+    <include 
+        layout="@layout/layout_trim" />
+    
+
+    <RelativeLayout
+		android:id="@+id/layoutView_screen"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent" />
+
+</RelativeLayout>

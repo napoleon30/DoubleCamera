@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="myview">
+        <attr name="recover_x" format="boolean" />
+        <attr name="recover_y" format="boolean" />
+        <attr name="locked_x" format="boolean" />
+        <attr name="locked_y" format="boolean" />
+        <attr name="opengravity" format="boolean" />
+        <attr name="orientation" format="boolean"/> 
+        <attr name="background" format="reference"/>
+        <attr name="background1" format="reference"/>
+        <attr name="background2" format="reference"/>
+        <attr name="text" format="string" /> 
+        <attr name="isbutton" format="boolean"/> 
+        <attr name="isthreebg" format="boolean"/>
+        
+        
+        <attr name="trim_max" format="integer"/> 
+        <attr name="trim_progress" format="integer"/>
+        
+    </declare-styleable>
+
+</resources>

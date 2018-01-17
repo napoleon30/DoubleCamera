@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:myview="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_horztrimView"
+    android:layout_width="240dp"
+    android:layout_height="32dp" >
+
+    <ImageButton
+        android:id="@+id/btn_decrease_horztrim"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@+id/sb_horztrim"
+        android:background="@drawable/trim_left" />
+
+    <cn.sharelink.view.TrimBar
+        android:id="@+id/sb_horztrim"
+        android:layout_width="160dp"
+        android:layout_height="16dp"
+        android:layout_centerInParent="true"
+        myview:trim_max="@integer/trim_max"
+	    myview:trim_progress="@integer/trim_mid" />
+
+    <ImageButton
+        android:id="@+id/btn_increase_horztrim"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/sb_horztrim"
+        android:background="@drawable/trim_right" />
+
+</RelativeLayout>
